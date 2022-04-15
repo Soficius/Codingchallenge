@@ -1,0 +1,60 @@
+body {
+  background: url(background.jpg);
+  background-size: cover;
+}
+.container {
+  width: 1000px;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 19em;
+  background-color: rgba(0,0,0,0.5);
+  color:white;
+  padding: 5em;
+  border-radius: 20px;
+}
+header, nav {
+  margin: auto;
+  text-align: center;
+}
+#barragialla {
+  background: #f5b453;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+#barraverde {
+  background: #0d0;
+  width: 530px;
+  height: 30px;
+  border-radius: 10px;
+}
+#barrarosso{
+  background: #be4141;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+}
+.titolo {
+  color: #0d0;
+}
+
+.image {
+  width: 25%
+}
+nav {
+  padding: 15px;
+  background-color: #0d0;
+}
+.sottotitolo {
+  display: inline-block;
+  margin-bottom: 0;
+}
+.arrow{
+  display: block;
+}
+.address{
+  display: inline-block;
+}
+.distance {
+  display: inline-block;
+}
